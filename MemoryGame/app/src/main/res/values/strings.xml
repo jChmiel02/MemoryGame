@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gra w Pamięć</string>
+    <string name="start_game">Rozpocznij grę</string>
+    <string name="show_scores">Najlepsze wyniki</string>
+    <string name="enter_name">Wprowadź nazwę gracza</string>
+    <string name="player_name">Nazwa gracza</string>
+    <string name="confirm">Rozpocznij</string>
+    <string name="cancel">Anuluj</string>
+    <string name="moves">Ruchy: %1$d</string>
+    <string name="time">Czas: %1$d s</string>
+    <string name="errors">Błędy: %1$d</string>
+    <string name="restart">Zagraj jeszcze raz</string>
+    <string name="exit">Powrót do menu</string>
+    <string name="best_scores">Najlepsze wyniki</string>
+    <string name="player_score">Gracz: %1$s, Ruchy: %2$d, Czas: %3$d s, Błędy: %4$d</string>
+    <string name="game_over_message">Gra zakończona! Wynik: Ruchy: %1$d, Czas: %2$d sekund, Błędy: %3$d.</string>
+    <string name="back_to_menu">Powrót do menu</string>
+</resources>

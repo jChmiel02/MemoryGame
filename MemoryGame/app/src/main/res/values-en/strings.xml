@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="start_game">Start Game</string>
+    <string name="show_scores">Best Scores</string>
+    <string name="enter_name">Enter Player Name</string>
+    <string name="player_name">Player Name</string>
+    <string name="confirm">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="moves">Moves: %1$d</string>
+    <string name="time">Time: %1$d s</string>
+    <string name="errors">Errors: %1$d</string>
+    <string name="restart">Play Again</string>
+    <string name="exit">Back to Menu</string>
+    <string name="best_scores">Best Scores</string>
+    <string name="player_score">Player: %1$s, Moves: %2$d, Time: %3$d s, Errors: %4$d</string>
+    <string name="game_over_message">Game Over! Score: Moves: %1$d, Time: %2$d seconds, Errors: %3$d.</string>
+    <string name="back_to_menu">Back to Menu</string>
+</resources>
